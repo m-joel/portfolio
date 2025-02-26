@@ -1,7 +1,5 @@
 # Joel Walek - Software Engineer
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
 ## 🚀 About Me
 I'm a **Senior Full Stack Developer** specializing in **.NET, Blazor, MAUI, and cloud technologies (AWS, Azure)**. With over 7 years of experience, I have built scalable, high-performance applications and led cross-functional teams in delivering enterprise solutions.
 
